@@ -10,3 +10,7 @@ wheels/
 .venv
 .specstory
 .cursorindexingignore
+.env
+*.env
+.env.local
+.env.*.local
